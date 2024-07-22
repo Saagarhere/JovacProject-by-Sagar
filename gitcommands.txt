@@ -1,0 +1,15 @@
+1. git init : used to create a new git repo
+2. git add <file name> or git add . : this command is used to add a file in stage area.
+3. git commit : this command is used to commit the files.
+4. git clone : this command is used to clone repos from github.com.
+5. git push : with the help of this command we push our changes from local device or computer to repos on github.com.
+6. git status : this command is used to check the status of file. where are they in stage area or they already get commited.
+7. git branch : this command is used to check the branch.
+8. git branch -m <brance name> : this command is used to change the branch name.
+9. git reset<commit address> : with the help of thid command we can reset the commits.
+10. git logs : used to check the history of projects i mean we can see call the commits we made in the project.
+11. git checkout <branch name> : to change the branch.
+12. git checkout -b <branch name> : used to create a new branch.
+
+and there are many more command for git.
+      
